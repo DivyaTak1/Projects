@@ -27,5 +27,5 @@ Feel free to explore my work and leave a star if you find it useful!
 
 ## 📫 Contact Me
 
-If you have any questions or would like to discuss my work further, feel free to reach out to me at Your Email.
+If you have any questions or would like to discuss my work further, feel free to reach out to me at myEmail.
 
